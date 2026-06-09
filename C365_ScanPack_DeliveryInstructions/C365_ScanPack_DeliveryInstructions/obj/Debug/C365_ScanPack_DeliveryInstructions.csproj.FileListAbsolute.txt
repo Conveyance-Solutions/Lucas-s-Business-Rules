@@ -1,0 +1,8 @@
+C:\Users\matthew.lucas\source\repos\C365_ScanPack_DeliveryInstructions\C365_ScanPack_DeliveryInstructions\bin\Debug\C365_ScanPack_DeliveryInstructions.dll
+C:\Users\matthew.lucas\source\repos\C365_ScanPack_DeliveryInstructions\C365_ScanPack_DeliveryInstructions\bin\Debug\C365_ScanPack_DeliveryInstructions.pdb
+C:\Users\matthew.lucas\source\repos\C365_ScanPack_DeliveryInstructions\C365_ScanPack_DeliveryInstructions\bin\Debug\P21.Extensions.dll
+C:\Users\matthew.lucas\source\repos\C365_ScanPack_DeliveryInstructions\C365_ScanPack_DeliveryInstructions\obj\Debug\C365_ScanPack_DeliveryInstructions.csproj.AssemblyReference.cache
+C:\Users\matthew.lucas\source\repos\C365_ScanPack_DeliveryInstructions\C365_ScanPack_DeliveryInstructions\obj\Debug\C365_ScanPack_DeliveryInstructions.csproj.CoreCompileInputs.cache
+C:\Users\matthew.lucas\source\repos\C365_ScanPack_DeliveryInstructions\C365_ScanPack_DeliveryInstructions\obj\Debug\C365_Sca.BB3AFF2B.Up2Date
+C:\Users\matthew.lucas\source\repos\C365_ScanPack_DeliveryInstructions\C365_ScanPack_DeliveryInstructions\obj\Debug\C365_ScanPack_DeliveryInstructions.dll
+C:\Users\matthew.lucas\source\repos\C365_ScanPack_DeliveryInstructions\C365_ScanPack_DeliveryInstructions\obj\Debug\C365_ScanPack_DeliveryInstructions.pdb

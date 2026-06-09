@@ -1,0 +1,16 @@
+C:\Users\matth\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\bin\Debug\C365_Scan_and_Pack_Bin_Populates_PT.dll
+C:\Users\matth\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\bin\Debug\C365_Scan_and_Pack_Bin_Populates_PT.pdb
+C:\Users\matth\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\bin\Debug\P21.Extensions.dll
+C:\Users\matth\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\obj\Debug\C365_Scan_and_Pack_Bin_Populates_PT.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\obj\Debug\C365_Scan_and_Pack_Bin_Populates_PT.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\obj\Debug\C365_Sca.28C1947F.Up2Date
+C:\Users\matth\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\obj\Debug\C365_Scan_and_Pack_Bin_Populates_PT.dll
+C:\Users\matth\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\obj\Debug\C365_Scan_and_Pack_Bin_Populates_PT.pdb
+C:\Users\matthew.lucas\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\bin\Debug\C365_Scan_and_Pack_Bin_Populates_PT.dll
+C:\Users\matthew.lucas\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\bin\Debug\C365_Scan_and_Pack_Bin_Populates_PT.pdb
+C:\Users\matthew.lucas\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\bin\Debug\P21.Extensions.dll
+C:\Users\matthew.lucas\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\obj\Debug\C365_Scan_and_Pack_Bin_Populates_PT.csproj.AssemblyReference.cache
+C:\Users\matthew.lucas\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\obj\Debug\C365_Scan_and_Pack_Bin_Populates_PT.csproj.CoreCompileInputs.cache
+C:\Users\matthew.lucas\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\obj\Debug\C365_Sca.28C1947F.Up2Date
+C:\Users\matthew.lucas\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\obj\Debug\C365_Scan_and_Pack_Bin_Populates_PT.dll
+C:\Users\matthew.lucas\source\repos\C365_Scan_and_Pack_Bin_Populates_PT\obj\Debug\C365_Scan_and_Pack_Bin_Populates_PT.pdb
