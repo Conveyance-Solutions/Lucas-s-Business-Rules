@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OE_Line_FET", "OE_Line_FET.csproj", "{BFFFC7DC-3D2B-42C6-98B0-0C47C86B0BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFFFC7DC-3D2B-42C6-98B0-0C47C86B0BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFFC7DC-3D2B-42C6-98B0-0C47C86B0BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFFC7DC-3D2B-42C6-98B0-0C47C86B0BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFFC7DC-3D2B-42C6-98B0-0C47C86B0BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1121B01D-68AB-4BA5-9919-25E21E21B5D4}
+	EndGlobalSection
+EndGlobal

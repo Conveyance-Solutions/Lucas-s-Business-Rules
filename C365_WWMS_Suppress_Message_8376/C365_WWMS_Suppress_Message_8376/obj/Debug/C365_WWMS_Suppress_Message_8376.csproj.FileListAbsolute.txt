@@ -1,0 +1,8 @@
+C:\Users\matthew.lucas\source\repos\C365_WWMS_Suppress_Message_8376\C365_WWMS_Suppress_Message_8376\obj\Debug\C365_WWMS_Suppress_Message_8376.csproj.AssemblyReference.cache
+C:\Users\matthew.lucas\source\repos\C365_WWMS_Suppress_Message_8376\C365_WWMS_Suppress_Message_8376\obj\Debug\C365_WWMS_Suppress_Message_8376.csproj.CoreCompileInputs.cache
+C:\Users\matthew.lucas\source\repos\C365_WWMS_Suppress_Message_8376\C365_WWMS_Suppress_Message_8376\bin\Debug\C365_WWMS_Suppress_Message_8376.dll
+C:\Users\matthew.lucas\source\repos\C365_WWMS_Suppress_Message_8376\C365_WWMS_Suppress_Message_8376\bin\Debug\C365_WWMS_Suppress_Message_8376.pdb
+C:\Users\matthew.lucas\source\repos\C365_WWMS_Suppress_Message_8376\C365_WWMS_Suppress_Message_8376\bin\Debug\P21.Extensions.dll
+C:\Users\matthew.lucas\source\repos\C365_WWMS_Suppress_Message_8376\C365_WWMS_Suppress_Message_8376\obj\Debug\C365_WWM.37169960.Up2Date
+C:\Users\matthew.lucas\source\repos\C365_WWMS_Suppress_Message_8376\C365_WWMS_Suppress_Message_8376\obj\Debug\C365_WWMS_Suppress_Message_8376.dll
+C:\Users\matthew.lucas\source\repos\C365_WWMS_Suppress_Message_8376\C365_WWMS_Suppress_Message_8376\obj\Debug\C365_WWMS_Suppress_Message_8376.pdb
